@@ -22,8 +22,10 @@
 
 ## 💼 Projects    
 
-- 🚀 [Aahara - Food Ordering App](https://github.com/keerthanas11/Food-Ordering-App) : Android app with Firebase backend for dine-in and online food ordering.  
-- 🎬[Movie Database Management System](https://github.com/keerthanas11/Movie-Database-Management-System) : Search movies by actors, directors & music directors using Flask and MySQL.  
+- 🚀 [Aahara - Food Ordering App](https://github.com/keerthanas11/Food-Ordering-App) : Android app with Firebase backend for dine-in and online food ordering.
+- 🧳 [Travel & Tourism Management System](https://github.com/keerthanas11/Travel-Tourism-Management-System) : Desktop application built to manage registrations, package bookings, and email confirmations.
+- 🧠 [Stress Level Prediction System](https://github.com/keerthanas11/Mental-Health-Prediction)  : Machine learning model to predict stress levels based on psychological and workload parameters.
+- 🎬 [Movie Database Management System](https://github.com/keerthanas11/Movie-Database-Management-System) : Search movies by actors, directors & music directors using Flask and MySQL.  
 - 🍽️ [Royal Rasoi - Restuarant Website](https://github.com/keerthanas11/Restuarant-website) : A simple and responsive website for viewing menus and exploring dishes.  
 
 ### 🤝 Let’s Connect
